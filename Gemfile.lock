@@ -207,7 +207,7 @@ GEM
     et-orbi (1.1.7)
       tzinfo
     excon (0.75.0)
-    execjs (2.7.0)
+    execjs (2.8.1)
     factory_girl (4.7.0)
       activesupport (>= 3.0.0)
     factory_girl_rails (4.7.0)
@@ -512,7 +512,7 @@ GEM
     timecop (0.9.1)
     tzinfo (1.2.7)
       thread_safe (~> 0.1)
-    uglifier (2.7.1)
+    uglifier (2.7.2)
       execjs (>= 0.3.0)
       json (>= 1.8.0)
     underscore-rails (1.6.0)
